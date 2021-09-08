@@ -42,7 +42,7 @@ __St. Norbert College,__ De Pere, WI
  - Planned, modernized, and managed auditions and concert events for honor choirs involving hundreds of in-person auditions.
  - Staged full-scale musical theater productions for performers grades 6-12 in collaboration with an outside dramatic director.
 
-### **Virtual Choir Audio & Video Producer**
+### **Audio/Video Producer**
 `2020—present`
 [Margot Venus Productions](https://www.facebook.com/margotvenusvideo) (sole proprietor), Abingdon VA
  - Expanded creative and technical skillset to assemble and edit high-quality [virtual choir videos](https://www.youtube.com/watch?v=gjPVDtYvF1s) for clients during pandemic lockdown.
@@ -69,7 +69,7 @@ __St. Norbert College,__ De Pere, WI
  - Developed custom Direct Deposit payment process for expense reimbursement.
  - Built or installed systems for financial reporting, data warehousing, and profitability analysis.
 
-### **Freelance Web App Developer**
+### **Freelance Web Developer**
 `2000—2002` 
  - [Prism RBS Retail](https://www.prismrbs.com), Lincoln NE
  - [HomeHunters.net](http://homehunters.net), Fair Lawn, NJ
