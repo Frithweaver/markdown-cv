@@ -28,29 +28,53 @@ Veteran music educator and former software developer transitioning out of the cl
 
 ## Education
 `2010-2012`
- - **Teaching Certification**, Choral Music / General Music / Mathematics
-	*St. Norbert College, De Pere, WI*
- 
+__St. Norbert College,__ De Pere, WI
+ - Teaching Certification, Choral Music / General Music / Mathematics
+
  `1994—1998`
- Kenyon College, Gambier, OH
+ __Kenyon College,__ Gambier, OH
  - Bachelor of Arts, Mathematics
 	
-`1654-1660`
-__The King's School, Grantham.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Work History
+`2013—present`
+**Choir Teacher**, 
+[Glade Spring M.S. & Patrick Henry H.S.](http://wcs.k12.va.us/), Glade Spring, VA
+ - Trailblazing advocate of literacy-first choral education. My students read music.
+ - Planned, modernized, and managed auditions and concert events for honor choirs involving hundreds of in-person auditions.
+ - Took responsibility as principal producer of full-scale musical theater productions for performers grades 6-12.
 
-- Sizar
+**Virtual Choir Audio & Video Producer**, *2020—present*
+[Margot Venus Productions](https://www.facebook.com/margotvenusvideo) (sole proprietor), Abingdon VA
+ - Expanded creative and technical skillset to assemble and edit high-quality [virtual choir videos](https://www.youtube.com/watch?v=gjPVDtYvF1s) for clients during pandemic lockdown.
 
-`1667 - death`
-__Trinity College, Cambridge__
+**Music Director**, *2016—present*
+[Emory United Methodist Church](http://www.emoryunitedmethodistchurch.com/), Emory, VA,
+ - Enabled distance worship through pre-recorded and edited virtual programming and then designed and installed a live-streaming solution in spring 2021.
 
-- Fellow
+**Choir Teacher**, *2012—2013*
+[Scott Memorial M.S. & George Wythe H.S.](http://wythe.k12.va.us/), Wytheville, VA
 
+**Sr. Applications Developer**, *2006—2010*
+[Troutman Pepper Hamilton Sanders LLP](http://troutman.com), Atlanta, GA
+ - Architected, developed, and launched custom new business intake workflow software.
+ - Wore multiple hats including business analyst ensuring quality requirements were gathered
 
+**Sr. Applications Analyst**, *2002—2006*
+[King & Spalding LLP](http://kslaw.com), Atlanta, GA
+ - Led a full new software suit acquisition lifecycle of from RFP to technical implementation.
+ - Developed custom Direct Deposit payment process for expense reimbursement.
+ - Built or installed systems for financial reporting, data warehousing, and profitability analysis.
 
-## Awards
+**Freelance Web Applications Developer**, *2000—2002*
+ - [Prism RBS Retail](https://www.prismrbs.com), Lincoln NE
+ - [HomeHunters.net](http://homehunters.net), Fair Lawn, NJ
+
+**Analyst/Consultant**, *1998—2000*
+[Accenture](http://accenture.com), Murray Hill, NJ
+ - Substantially expanded intranet portal for the client, US Housing and Urban Development.
+ - Supported ongoing development of an established client-server tax revenue solution for local governments.
+
 
 `2012`
 President, *Royal Society*, London, UK
