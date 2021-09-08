@@ -19,7 +19,7 @@ Veteran music educator and former software developer transitioning out of the cl
  - **Entrepreneur On The Side:** Created virtual choir videos and/or lightweight business databases.
 
 
-### Relevant Skills
+### Relevant Experience
  - Managed transition to **online ticketing** for a recent school musical, including delivering a custom live-stream to ticketed patrons.
  - Implemented and supported **financial software systems** including reporting, budgeting, accounts payable, and new business intake.
  - **Managed relationships** with fundraising vendors, tour companies, guest conductors, and parents of talented students over nine years of trips, auditions, and shows.
@@ -84,48 +84,33 @@ __St. Norbert College,__ De Pere, WI
  - Supported ongoing development of an established client-server tax revenue solution for local governments.
 
 
-`2012`
-President, *Royal Society*, London, UK
+## Arts Leadership
+`2018-present`
+ - [Mountain Empire Children's Choral Academy](https://www.meccacademy.org/), Board of Directors
+ 
+ `2014-2017`
+ - [American Choral Directors Association, Virginia Chapter](https://www.vaacda.org/), Webmaster
 
-Associate, *French Academy of Science*, Paris, France
+`2015-2019`
+ - [Virginia Music Educators Association](https://vcda.net/), District VII Auditions Chair
 
 
+## Honors
+`2013, 2017, 2019`
+* Virginia Music Educators Blue Ribbon Award
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
+`2019`
+* Session Presenter, "Games in the Choir Classroom", The Workshops at All-Virginia, VMEA
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+* Runner-up, Festival Singers of Atlanta Choral Composition Competition
 
+`2005`
+* Grammy Award, Best Choral Performance, "Berlioz Requiem", Atlanta Symphony Orchestra & Chorus
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Skills
+* Audio/Video Production: Logic Pro X, Final Cut Pro X - strengths in creating "virtual" versions of live musical presentations.
+* Software Developer: HTML/CSS, VB.NET, ASP.NET, MSSQL, Crystal Reports
+* Fluent In: G Suite, MS-Office, Mac OS, Windows Poweruser
+* Dabbles In: Cloud Computing, Linux, Docker, 3D Printing
+* Slightly Too Expert In: Board Game Acquisition, D&D 5e, Overly Ambitious Camping Trips
