@@ -37,7 +37,7 @@ __St. Norbert College,__ De Pere, WI
 ## Work History
 ### __Choir Teacher__
 `2013—present`
-[Glade Spring M.S. & Patrick Henry H.S.](http://wcs.k12.va.us/), _Glade Spring, VA_
+[Glade Spring M.S. & Patrick Henry H.S.](http://wcs.k12.va.us/), Glade Spring, VA
  - Trailblazing advocate of literacy-first choral education. My students read music.
  - Planned, modernized, and managed auditions and concert events for honor choirs involving hundreds of in-person auditions.
  - Staged full-scale musical theater productions for performers grades 6-12 in collaboration with an outside dramatic director.
