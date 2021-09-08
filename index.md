@@ -6,13 +6,14 @@ title: David Carroll's Resume
 Veteran music educator and former software developer transitioning out of the classroom and looking for the right team to join. Energetic, creative, intellectual, problem-solving, dedicated.
 
 <div id="webaddress">
-<davecarroll@hey.com> | 276-477-0827 | he/him
+ <a href="mailto:davecarroll@hey.com">davecarroll@hey.com</a> | 276-477-0827 | he/him
 </div>
 
 
 ## Core Qualifications
 
- - **Arts Leader**: Collaborates with educators, musicians, and community leaders to set budget and policy for professional associations and non-profits.
+ - **Arts Leader**
+ : Collaborates with educators, musicians, and community leaders to set budget and policy for professional associations and non-profits.
  - **Tech Background**: Twelve years of experience building and implementing customized corporate software suites.
  - **Proven Performer**: Able to plan, prepare and execute a successful software launch or a holiday concert.
  - **Knows The Audience**: Quickly comprehends unfamiliar organizational cultures, listens carefully, re-articulates needs, revises often.
