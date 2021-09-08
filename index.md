@@ -28,13 +28,13 @@ Veteran music educator and former software developer transitioning out of the cl
 
 ## Education
 `2010-2012`
- - **Teaching Certification**, Choral Music / General Music / Mathematics, 2012
+ - **Teaching Certification**, Choral Music / General Music / Mathematics
 	*St. Norbert College, De Pere, WI*
- `1998`
- - **Bachelor of Arts**, Mathematics
-	*Kenyon College, Gambier, OH*
  
-
+ `1994—1998`
+ Kenyon College, Gambier, OH
+ - Bachelor of Arts, Mathematics
+	
 `1654-1660`
 __The King's School, Grantham.__
 
