@@ -74,7 +74,7 @@ __St. Norbert College,__ De Pere, WI
  - [Prism RBS Retail](https://www.prismrbs.com), Lincoln NE
  - [HomeHunters.net](http://homehunters.net), Fair Lawn, NJ
 
-### **Analyst/Consultant**
+### **Consultant**
 `1998—2000`
 [Accenture](http://accenture.com), Murray Hill, NJ
  - Substantially expanded intranet portal for the client, US Housing and Urban Development.
@@ -88,11 +88,11 @@ __St. Norbert College,__ De Pere, WI
  
  `2014-2017`
  - [American Choral Directors Association, Virginia Chapter](https://www.vaacda.org/)
- Webmaster
+ : Webmaster
 
 `2015-2019`
  - [Virginia Music Educators Association](https://vcda.net/)
- - District VII Auditions Chair
+ : District VII Auditions Chair
 
 
 ## Honors
@@ -100,17 +100,20 @@ __St. Norbert College,__ De Pere, WI
 * Virginia Music Educators Blue Ribbon Award
 
 `2019`
-* Session Presenter, "Games in the Choir Classroom", The Workshops at All-Virginia, VMEA
+* Session Presenter, "Games in the Choir Classroom"
+: The Workshops at All-Virginia, VMEA
 
 `2012`
-* Runner-up, Festival Singers of Atlanta Choral Composition Competition
+* Runner-up for "Immortal Sails"
+: Festival Singers of Atlanta Choral Composition Competition
 
 `2005`
-* Grammy Award, Best Choral Performance, "Berlioz Requiem", Atlanta Symphony Orchestra & Chorus
+* Grammy Award, Best Choral Performance
+: "Berlioz Requiem", Atlanta Symphony Orchestra & Chorus
 
 ## Skills
-* Audio/Video Production: Logic Pro X, Final Cut Pro X - strengths in creating "virtual" versions of live musical presentations.
+* Audio/Video Production: Logic Pro X, Final Cut Pro X, Teradek Airmix
 * Software Developer: HTML/CSS, VB.NET, ASP.NET, MSSQL, Crystal Reports
 * Fluent In: G Suite, MS-Office, Mac OS, Windows Poweruser
-* Dabbles In: Cloud Computing, Linux, Docker, 3D Printing
-* Slightly Too Expert In: Board Game Acquisition, D&D 5e, Overly Ambitious Camping Trips
+* Dabbles In: Linux Cloud Computing, Docker, 3D Printing
+* Slightly Too Familiar With: Board Game Acquisition, D&D 5e, Overly Ambitious Camping Trips
