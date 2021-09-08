@@ -12,25 +12,28 @@ Veteran music educator and former software developer transitioning out of the cl
 
 ## Core Qualifications
 
- - **Arts Leader**
- : Collaborates with educators, musicians, and community leaders to set budget and policy for professional associations and non-profits.
+ - **Arts Leader**: Collaborates with educators, musicians, and community leaders to set budget and policy for professional associations and non-profits.
  - **Tech Background**: Twelve years of experience building and implementing customized corporate software suites.
  - **Proven Performer**: Able to plan, prepare and execute a successful software launch or a holiday concert.
  - **Knows The Audience**: Quickly comprehends unfamiliar organizational cultures, listens carefully, re-articulates needs, revises often.
- - **Boutique Entrepreneur:** Created virtual choir videos and/or lightweight business databases.
+ - **Entrepreneur On The Side:** Created virtual choir videos and/or lightweight business databases.
 
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Relevant Skills
+ - Managed transition to **online ticketing** for a recent school musical, including delivering a custom live-stream to ticketed patrons.
+ - Implemented and supported **financial software systems** including reporting, budgeting, accounts payable, and new business intake.
+ - **Managed relationships** with fundraising vendors, tour companies, guest conductors, and parents of talented students over nine years of trips, auditions, and shows.
+ - Cultivated a **network of contacts** within the academic and professional choral music community.
 
 
 ## Education
+`2010-2012`
+ - **Teaching Certification**, Choral Music / General Music / Mathematics, 2012
+	*St. Norbert College, De Pere, WI*
+ `1998`
+ - **Bachelor of Arts**, Mathematics
+	*Kenyon College, Gambier, OH*
+ 
 
 `1654-1660`
 __The King's School, Grantham.__
