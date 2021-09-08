@@ -19,7 +19,7 @@ Former software developer turned veteran music educator now transitioning out of
 
 
 ### Experience
- - Managed transition to **online ticketing** for a recent school musical, including delivering a custom live-stream to ticketed patrons.
+ - Managed transition to **online ticketing** for a recent school musical, including delivering a custom livestream to ticketed patrons.
  - Implemented and supported **financial software systems** including reporting, budgeting, accounts payable, and new business intake.
  - **Managed relationships** with fundraising vendors, tour companies, guest conductors, and parents of talented students over nine years of trips, auditions, and shows.
  - Cultivated a **network of contacts** within the academic and professional choral music community.
