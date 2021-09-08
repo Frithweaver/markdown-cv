@@ -4,7 +4,8 @@ title: David Carroll's Resume
 ---
 # David W. Carroll
 Former software developer turned veteran music educator now transitioning out of the classroom. 
-: Enthusiastic, creative, dedicated.
+
+Enthusiastic, creative, dedicated.
 
 <div id="webaddress">
  <a href="mailto:davecarroll@hey.com">davecarroll@hey.com</a> | 276-477-0827 | he/him
