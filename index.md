@@ -10,7 +10,7 @@ Veteran music educator and former software developer transitioning out of the cl
 </div>
 
 
-## Core Qualifications
+## Professional Summary
 
  - **Arts Leader**: Collaborates with educators, musicians, and community leaders to set budget and policy for professional associations and non-profits.
  - **Tech Background**: Twelve years of experience building and implementing customized corporate software suites.
@@ -26,7 +26,7 @@ Veteran music educator and former software developer transitioning out of the cl
  - Cultivated a **network of contacts** within the academic and professional choral music community.
 
 
-## Education
+### Education
 `2010-2012`
 __St. Norbert College,__ De Pere, WI
  - Teaching Certification, Choral Music / General Music / Mathematics
@@ -37,7 +37,7 @@ __St. Norbert College,__ De Pere, WI
 	
 
 ## Work History
-### Choir Teacher
+### __Choir Teacher__
 `2013—present`
 [Glade Spring M.S. & Patrick Henry H.S.](http://wcs.k12.va.us/), _Glade Spring, VA_
  - Trailblazing advocate of literacy-first choral education. My students read music.
