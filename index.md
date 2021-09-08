@@ -8,15 +8,16 @@ Former software developer turned veteran music educator now transitioning out of
 <div id="webaddress">
  <a href="mailto:davecarroll@hey.com">davecarroll@hey.com</a> | 276-477-0827 | he/him
 </div>
+
 ## Qualifications
 
 ### Competencies
- - **Arts Leader**: Collaborates with educators, musicians, and community leaders to set budget and policy for professional associations and non-profits.
+ - **Arts Advocate**: Collaborates with educators, musicians, and community leaders to set budget and policy for professional associations and non-profits.
  - **Tech Background**: Twelve years of experience building and implementing customized corporate software suites.
  - **Proven Performer**: Able to plan, prepare and execute a successful software launch or a holiday concert.
  - **Knows The Audience**: Quickly comprehends unfamiliar organizational cultures, listens carefully, re-articulates needs, revises often.
  - **Entrepreneur On The Side:** Creating virtual choir videos and/or lightweight business databases.
-
+ - **Choir Director:** Prepares singers to make music together that is greater than the sum of its parts.
 
 ### Experience
  - Managed transition to **online ticketing** for a recent school musical, including delivering a custom livestream to ticketed patrons.
@@ -24,7 +25,7 @@ Former software developer turned veteran music educator now transitioning out of
  - **Managed relationships** with fundraising vendors, tour companies, guest conductors, and parents of talented students over nine years of trips, auditions, and shows.
  - Cultivated a **network of contacts** within the academic and professional choral music community.
 
-## Education
+### Education
 `2010-2012`
 __St. Norbert College,__ De Pere, WI
  - Teaching Certification, Choral Music / General Music / Mathematics
