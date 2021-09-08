@@ -10,22 +10,23 @@ Veteran music educator and former software developer transitioning out of the cl
 </div>
 
 
-## Professional Summary
+## Relevant Qualifications
 
+### Competencies
  - **Arts Leader**: Collaborates with educators, musicians, and community leaders to set budget and policy for professional associations and non-profits.
  - **Tech Background**: Twelve years of experience building and implementing customized corporate software suites.
  - **Proven Performer**: Able to plan, prepare and execute a successful software launch or a holiday concert.
  - **Knows The Audience**: Quickly comprehends unfamiliar organizational cultures, listens carefully, re-articulates needs, revises often.
- - **Entrepreneur On The Side:** Created virtual choir videos and/or lightweight business databases.
+ - **Entrepreneur On The Side:** Creating virtual choir videos and/or lightweight business databases.
 
 
-### Relevant Experience
+### Experience
  - Managed transition to **online ticketing** for a recent school musical, including delivering a custom live-stream to ticketed patrons.
  - Implemented and supported **financial software systems** including reporting, budgeting, accounts payable, and new business intake.
  - **Managed relationships** with fundraising vendors, tour companies, guest conductors, and parents of talented students over nine years of trips, auditions, and shows.
  - Cultivated a **network of contacts** within the academic and professional choral music community.
 
-### Education
+## Education
 `2010-2012`
 __St. Norbert College,__ De Pere, WI
  - Teaching Certification, Choral Music / General Music / Mathematics
