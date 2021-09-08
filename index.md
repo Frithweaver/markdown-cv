@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: David Carroll's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# David W. Carroll
+Veteran music educator and former software developer transitioning out of the classroom and looking for the right team to join. Energetic, creative, intellectual, problem-solving, dedicated.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
