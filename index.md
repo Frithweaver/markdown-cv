@@ -6,14 +6,18 @@ title: David Carroll's Resume
 Veteran music educator and former software developer transitioning out of the classroom and looking for the right team to join. Energetic, creative, intellectual, problem-solving, dedicated.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<davecarroll@hey.com> | 276-477-0827 | he/him
 </div>
 
 
-## Currently
+## Core Qualifications
 
-Standing on the shoulders of giants
+ - **Arts Leader**: Collaborates with educators, musicians, and community leaders to set budget and policy for professional associations and non-profits.
+ - **Tech Background**: Twelve years of experience building and implementing customized corporate software suites.
+ - **Proven Performer**: Able to plan, prepare and execute a successful software launch or a holiday concert.
+ - **Knows The Audience**: Quickly comprehends unfamiliar organizational cultures, listens carefully, re-articulates needs, revises often.
+ - **Boutique Entrepreneur:** Created virtual choir videos and/or lightweight business databases.
+
 
 ### Specialized in
 
