@@ -63,8 +63,7 @@ __St. Norbert College,__ De Pere, WI
 ### **Sr. Applications Analyst**
 `2002—2006`
 [King & Spalding LLP](http://kslaw.com), Atlanta, GA
- - Led a full new software suit acquisition lifecycle of from RFP to technical implementation.
- - Developed custom Direct Deposit payment process for expense reimbursement.
+ - Managed software acquisition lifecycle from RFP to technical implementation.
  - Built or installed systems for financial reporting, data warehousing, and profitability analysis.
 
 ### **Freelance Web Developer**
@@ -75,9 +74,8 @@ __St. Norbert College,__ De Pere, WI
 ### **Consultant**
 `1998—2000`
 [Accenture](http://accenture.com), Murray Hill, NJ
- - Substantially expanded intranet portal for the client, US Housing and Urban Development.
+ - Substantially expanded intranet portal for the US Housing and Urban Development.
  - Supported ongoing development of an established client-server tax revenue solution for local governments.
-
 
 ## Arts Leadership
 `2018-present`
@@ -91,7 +89,6 @@ __St. Norbert College,__ De Pere, WI
 `2015-2019`
  - [Virginia Music Educators Association](https://vcda.net/)
  : District VII Auditions Chair
-
 
 ## Honors
 `2013, 2017, 2019`
