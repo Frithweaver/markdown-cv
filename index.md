@@ -12,7 +12,7 @@ Former software developer. Veteran music educator. Seeking a new path. Enthusias
 ## Qualifications
 
 ### Competencies
- - **Tech Background**: Twelve years of experience building and implementing customized corporate software suites.
+ - **Tech Background**: Twelve years of customizing and building full stack in-house backoffice systems.
  - **Proven Performer**: Able to plan, prepare and execute a successful software launch or a holiday concert.
  - **Knows The Audience**: Quickly comprehends unfamiliar organizational cultures, listens carefully, re-articulates needs, revises often.
  - **Entrepreneur On The Side:** Creating virtual choir videos and/or lightweight business databases.
