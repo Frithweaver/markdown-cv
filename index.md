@@ -3,7 +3,7 @@ layout: cv
 title: David Carroll's Resume
 ---
 # David W. Carroll
-Former software developer turned veteran music educator now transitioning out of the classroom. Enthusiastic, creative, dedicated.
+Former software developer. Veteran music educator choosing a new path. Enthusiastic, creative, dedicated.
 
 <div id="webaddress">
  <a href="mailto:davecarroll@hey.com">davecarroll@hey.com</a> | 276-477-0827 | he/him
@@ -12,7 +12,7 @@ Former software developer turned veteran music educator now transitioning out of
 ## Qualifications
 
 ### Competencies
- - **Tech Background**: Twelve years of experience building and implementing customized corporate software suites.
+ - **Tech Background**: Twelve years of customizing and building full stack in-house backoffice systems.
  - **Proven Performer**: Able to plan, prepare and execute a successful software launch or a holiday concert.
  - **Knows The Audience**: Quickly comprehends unfamiliar organizational cultures, listens carefully, re-articulates needs, revises often.
  - **Entrepreneur On The Side:** Creating virtual choir videos and/or lightweight business databases.
@@ -20,7 +20,7 @@ Former software developer turned veteran music educator now transitioning out of
 
 ### Experience
  - Implemented and supported **financial software systems** at major law firms including reporting, budgeting, accounts payable, and new business intake.
- - Worked directly with an **internal Helpdesk Team** in the role of second-tier ticket escalation support.
+ - Designed databases, wrote stored procedures, loaded legacy data, and built software in the **Microsoft .NET and SQL Server stack**
  - **Managed relationships** with fundraising vendors, tour companies, guest conductors, and parents of talented students over nine years of trips, auditions, and shows.
 
 ### Education
@@ -63,8 +63,7 @@ __St. Norbert College,__ De Pere, WI
 ### **Sr. Applications Analyst**
 `2002—2006`
 [King & Spalding LLP](http://kslaw.com), Atlanta, GA
- - Led a full new software suit acquisition lifecycle of from RFP to technical implementation.
- - Developed custom Direct Deposit payment process for expense reimbursement.
+ - Managed software acquisition lifecycle from RFP to technical implementation.
  - Built or installed systems for financial reporting, data warehousing, and profitability analysis.
 
 ### **Freelance Web Developer**
@@ -75,9 +74,8 @@ __St. Norbert College,__ De Pere, WI
 ### **Consultant**
 `1998—2000`
 [Accenture](http://accenture.com), Murray Hill, NJ
- - Substantially expanded intranet portal for the client, US Housing and Urban Development.
+ - Substantially expanded intranet portal for the US Housing and Urban Development.
  - Supported ongoing development of an established client-server tax revenue solution for local governments.
-
 
 ## Arts Leadership
 `2018-present`
@@ -91,7 +89,6 @@ __St. Norbert College,__ De Pere, WI
 `2015-2019`
  - [Virginia Music Educators Association](https://vcda.net/)
  : District VII Auditions Chair
-
 
 ## Honors
 `2013, 2017, 2019`
