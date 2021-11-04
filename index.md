@@ -3,7 +3,7 @@ layout: cv
 title: David Carroll's Resume
 ---
 # David W. Carroll
-Former software developer. Veteran music educator. Seeking a new path. Enthusiastic, creative, dedicated.
+Former software developer. Veteran music educator choosing a new path. Enthusiastic, creative, dedicated.
 
 <div id="webaddress">
  <a href="mailto:davecarroll@hey.com">davecarroll@hey.com</a> | 276-477-0827 | he/him
