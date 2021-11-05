@@ -96,7 +96,8 @@ Dandt Systems (sole proprietor)
 Virginia Music Educators Blue Ribbon Award
 
 `2019`
-Session Presenter, "Games in the Choir Classroom", The Workshops at All-Virginia, VMEA
+Session Presenter, "Games in the Choir Classroom"
+The Workshops at All-Virginia, VMEA
 
 `2012`
 Runner-up for "Immortal Sails", Festival Singers of Atlanta Choral Composition Competition
