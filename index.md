@@ -81,17 +81,17 @@ __St. Norbert College,__ De Pere, WI
 
 ## Arts Leadership
 
-### **FDSA**
+###
 `2018-present`
 [Mountain Empire Children's Choral Academy](https://www.meccacademy.org/)
  : Board of Directors
  
- `2014-2017`
- [American Choral Directors Association, Virginia Chapter](https://www.vaacda.org/)
+`2014-2017`
+[American Choral Directors Association, Virginia Chapter](https://www.vaacda.org/)
  : Webmaster
 
 `2015-2019`
- [Virginia Music Educators Association](https://vcda.net/)
+[Virginia Music Educators Association](https://vcda.net/)
  : District VII Auditions Chair
 
 ## Honors
