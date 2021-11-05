@@ -37,20 +37,20 @@ __St. Norbert College,__ De Pere, WI
 `2013—2021`
 [Glade Spring M.S. & Patrick Henry H.S.](http://wcs.k12.va.us/), Glade Spring, VA
  - Produced full-scale musicals for performers grades 6-12.
- - Implemented online ticketing and livestreaming through "On the Stage" during the 20-21 pandemic school year.
+ - Implemented online ticketing and livestreaming.
  - Trailblazing advocate of literacy-first choral education. My students read music.
 
 
 ### **Audio/Video Producer**
 `2020—present`
 [Margot Venus Productions](https://www.facebook.com/margotvenusvideo) (sole proprietor), Abingdon VA
- - Used creative and technical skillset to assemble and edit high-quality [virtual choir videos](https://www.youtube.com/watch?v=gjPVDtYvF1s) for clients during pandemic lockdown.
+ - Assembled high-quality [virtual choir videos](https://www.youtube.com/watch?v=gjPVDtYvF1s).
 
 ### **Director of Music**
 `2016—present`
 [Emory United Methodist Church](http://www.emoryunitedmethodistchurch.com/), Emory, VA,
  - Selected repertoire, prepared chapel choir to lead worship through song.
- - Edited pre-recorded virtual services during lockdowns. Installed a live-streaming solution in spring 2021.
+ - Edited pre-recorded virtual services during lockdowns. Installed a live-streaming solution.
 
 ### **Choir Teacher**
 `2012—2013`
