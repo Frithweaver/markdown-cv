@@ -70,8 +70,9 @@ __St. Norbert College,__ De Pere, WI
 
 ### **Web Developer**
 `2000—2002` 
- [Prism RBS Retail](https://www.prismrbs.com), Lincoln NE
-: [HomeHunters.net](http://homehunters.net), Fair Lawn, NJ
+Dandt Systems (sole proprietor)
+- [Prism RBS Retail](https://www.prismrbs.com), Lincoln NE
+- [HomeHunters.net](http://homehunters.net), Fair Lawn, NJ
 
 ### **Consultant**
 `1998—2000`
