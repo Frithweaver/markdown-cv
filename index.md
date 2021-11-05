@@ -116,4 +116,4 @@ Grammy Award, Best Choral Performance, "Berlioz Requiem"
 * Dabbles In: Linux Cloud Computing, Docker, 3D Printing, PostgreSQL
 * Slightly Too Familiar With: Board Game Acquisition, D&D 5e, Overly Ambitious Camping Trips
 
-References on request
+#### References on request
