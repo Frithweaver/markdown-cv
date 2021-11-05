@@ -33,13 +33,6 @@ __St. Norbert College,__ De Pere, WI
  - Bachelor of Arts, Mathematics
 	
 ## Work History
-### __Choir Teacher__
-`2013—2021`
-[Glade Spring M.S. & Patrick Henry H.S.](http://wcs.k12.va.us/), Glade Spring, VA
- - Produced full-scale musicals for performers grades 6-12.
- - Implemented online ticketing and livestreaming.
- - Trailblazing advocate of literacy-first choral education. My students read music.
-
 
 ### **Audio/Video Producer**
 `2020—present`
@@ -51,6 +44,13 @@ __St. Norbert College,__ De Pere, WI
 [Emory United Methodist Church](http://www.emoryunitedmethodistchurch.com/), Emory, VA,
  - Selected repertoire, prepared chapel choir to lead worship through song.
  - Edited pre-recorded virtual services during lockdowns. Installed a live-streaming solution.
+
+### __Choir Teacher__
+`2013—2021`
+[Glade Spring M.S. & Patrick Henry H.S.](http://wcs.k12.va.us/), Glade Spring, VA
+ - Produced full-scale musicals for performers grades 6-12.
+ - Implemented online ticketing and livestreaming.
+ - Trailblazing advocate of literacy-first choral education. My students read music.
 
 ### **Choir Teacher**
 `2012—2013`
