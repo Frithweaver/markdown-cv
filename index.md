@@ -70,8 +70,8 @@ __St. Norbert College,__ De Pere, WI
 
 ### **Web Developer**
 `2000—2002` 
- - [Prism RBS Retail](https://www.prismrbs.com), Lincoln NE
- - [HomeHunters.net](http://homehunters.net), Fair Lawn, NJ
+ [Prism RBS Retail](https://www.prismrbs.com), Lincoln NE
+ [HomeHunters.net](http://homehunters.net), Fair Lawn, NJ
 
 ### **Consultant**
 `1998—2000`
@@ -81,31 +81,31 @@ __St. Norbert College,__ De Pere, WI
 
 ## Arts Leadership
 `2018-present`
- - [Mountain Empire Children's Choral Academy](https://www.meccacademy.org/)
+ [Mountain Empire Children's Choral Academy](https://www.meccacademy.org/)
  : Board of Directors
  
  `2014-2017`
- - [American Choral Directors Association, Virginia Chapter](https://www.vaacda.org/)
+ [American Choral Directors Association, Virginia Chapter](https://www.vaacda.org/)
  : Webmaster
 
 `2015-2019`
- - [Virginia Music Educators Association](https://vcda.net/)
+ [Virginia Music Educators Association](https://vcda.net/)
  : District VII Auditions Chair
 
 ## Honors
 `2013, 2017, 2019`
-* Virginia Music Educators Blue Ribbon Award
+Virginia Music Educators Blue Ribbon Award
 
 `2019`
-* Session Presenter, "Games in the Choir Classroom"
+Session Presenter, "Games in the Choir Classroom"
 : The Workshops at All-Virginia, VMEA
 
 `2012`
-* Runner-up for "Immortal Sails"
+Runner-up for "Immortal Sails"
 : Festival Singers of Atlanta Choral Composition Competition
 
 `2005`
-* Grammy Award, Best Choral Performance
+Grammy Award, Best Choral Performance
 : "Berlioz Requiem", Atlanta Symphony Orchestra & Chorus
 
 ## Skills
