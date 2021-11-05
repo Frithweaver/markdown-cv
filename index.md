@@ -80,8 +80,8 @@ __St. Norbert College,__ De Pere, WI
  - Supported ongoing development of an established tax revenue solution for local governments.
 
 ## Arts Leadership
+### &nbsp;
 `2018-present`
-
   [Mountain Empire Children's Choral Academy](https://www.meccacademy.org/)
  : Board of Directors
  
