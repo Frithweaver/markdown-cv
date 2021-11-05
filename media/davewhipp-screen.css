@@ -152,6 +152,16 @@ h3 {
 	width: 20%;
 }
 
+h4 {
+	font-size: 1em;
+	font-style: italic;
+	line-height: 2em;
+	position: relative;
+	top: 1.7em;
+	text-align: center;
+	width: 20%;
+}
+
 a {
 	color: #39f;
 	/*text-decoration:none*/
