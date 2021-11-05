@@ -82,31 +82,26 @@ __St. Norbert College,__ De Pere, WI
 ## Arts Leadership
 
 `2018-present`
-[Mountain Empire Children's Choral Academy](https://www.meccacademy.org/)
+[Mountain Empire Children's Choral Academy](https://www.meccacademy.org/), Board of Directors
  
 `2014-2017`
-[American Choral Directors Association, Virginia Chapter](https://www.vaacda.org/)
- : Webmaster
+[American Choral Directors Association, Virginia Chapter](https://www.vaacda.org/), Webmaster
 
 `2015-2019`
-[Virginia Music Educators Association](https://vcda.net/)
- : District VII Auditions Chair
+[Virginia Music Educators Association](https://vcda.net/), District VII Auditions Chair
 
 ## Honors
 `2013, 2017, 2019`
 Virginia Music Educators Blue Ribbon Award
 
 `2019`
-Session Presenter, "Games in the Choir Classroom"
-: The Workshops at All-Virginia, VMEA
+Session Presenter, "Games in the Choir Classroom", The Workshops at All-Virginia, VMEA
 
 `2012`
-Runner-up for "Immortal Sails"
-: Festival Singers of Atlanta Choral Composition Competition
+Runner-up for "Immortal Sails", Festival Singers of Atlanta Choral Composition Competition
 
 `2005`
-Grammy Award, Best Choral Performance
-: "Berlioz Requiem", Atlanta Symphony Orchestra & Chorus
+Grammy Award, Best Choral Performance, "Berlioz Requiem", Atlanta Symphony Orchestra & Chorus
 
 ## Skills
 * Software Developer: HTML/CSS, VB.NET, ASP.NET, SQL, MSSQL, Crystal Reports
