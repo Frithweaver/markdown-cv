@@ -3,7 +3,7 @@ layout: cv
 title: David Carroll's Resume
 ---
 # David W. Carroll
-Former software developer. Veteran music educator choosing a new path. Enthusiastic, creative, dedicated.
+Veteran music educator choosing a new path. Former software developer. Enthusiastic, creative, dedicated.
 
 <div id="webaddress">
  <a href="mailto:davecarroll@hey.com">davecarroll@hey.com</a> | 276-477-0827 | he/him
@@ -12,16 +12,16 @@ Former software developer. Veteran music educator choosing a new path. Enthusias
 ## Qualifications
 
 ### Competencies
- - **Tech Background**: Twelve years of customizing and building full stack in-house backoffice systems.
- - **Proven Performer**: Able to plan, prepare and execute a successful software launch or a holiday concert.
- - **Knows The Audience**: Quickly comprehends unfamiliar organizational cultures, listens carefully, re-articulates needs, revises often.
- - **Entrepreneur On The Side:** Creating virtual choir videos, simple web site designs, and lightweight business databases.
+ - **Tech Background**: Twelve years of customizing and building full stack backoffice systems.
+ - **Proven Performer**: Can plan and execute a successful software launch or a holiday concert.
+ - **Knows The Audience**: Quickly comprehends organizational cultures, listens, revises often.
+ - **Side-gig Entrepreneur:** Creating virtual choir videos, simple websites, and business databases.
  - **Choir Director:** Prepares singers to make music together that is greater than the sum of its parts.
 
 ### Experience
+ - Designed and deployed databases in the **Microsoft .NET and SQL Server stack**, wrote stored procedures, transformed legacy data.
  - Implemented and supported **financial software systems** at major law firms including reporting, budgeting, accounts payable, and new business intake.
- - Designed databases, wrote stored procedures, loaded legacy data, and built software in the **Microsoft .NET and SQL Server stack**
- - **Managed relationships** with fundraising vendors, tour companies, guest conductors, and parents of talented students over nine years of trips, auditions, and shows.
+- **Managed relationships** with fundraising vendors, tour companies, guest conductors, and parents of talented students over nine years of trips, auditions, and shows.
 
 ### Education
 `2010-2012`
@@ -36,20 +36,21 @@ __St. Norbert College,__ De Pere, WI
 ### __Choir Teacher__
 `2013—2021`
 [Glade Spring M.S. & Patrick Henry H.S.](http://wcs.k12.va.us/), Glade Spring, VA
- - Trailblazing advocate of literacy-first choral education. My students read music.
- - Staged full-scale musical theater productions for performers grades 6-12 in collaboration with a dramatic director.
+ - Produced full-scale musicals for performers grades 6-12.
  - Implemented online ticketing and livestreaming through "On the Stage" during the 20-21 pandemic school year.
+ - Trailblazing advocate of literacy-first choral education. My students read music.
+
 
 ### **Audio/Video Producer**
 `2020—present`
 [Margot Venus Productions](https://www.facebook.com/margotvenusvideo) (sole proprietor), Abingdon VA
- - Expanded creative and technical skillset to assemble and edit high-quality [virtual choir videos](https://www.youtube.com/watch?v=gjPVDtYvF1s) for clients during pandemic lockdown.
+ - Used creative and technical skillset to assemble and edit high-quality [virtual choir videos](https://www.youtube.com/watch?v=gjPVDtYvF1s) for clients during pandemic lockdown.
 
 ### **Director of Music**
 `2016—present`
 [Emory United Methodist Church](http://www.emoryunitedmethodistchurch.com/), Emory, VA,
- - Enabled distance worship through pre-recorded and edited virtual programming and then designed and installed a live-streaming solution in spring 2021.
  - Selected repertoire, prepared chapel choir to lead worship through song.
+ - Edited pre-recorded virtual services during lockdowns. Installed a live-streaming solution in spring 2021.
 
 ### **Choir Teacher**
 `2012—2013`
@@ -65,7 +66,7 @@ __St. Norbert College,__ De Pere, WI
 `2002—2006`
 [King & Spalding LLP](http://kslaw.com), Atlanta, GA
  - Managed software acquisition lifecycle from RFP to technical implementation.
- - Built or installed systems for financial reporting, data warehousing, and profitability analysis.
+ - Built or installed systems for financial reporting and profitability analysis.
 
 ### **Web Developer**
 `2000—2002` 
@@ -76,7 +77,7 @@ __St. Norbert College,__ De Pere, WI
 `1998—2000`
 [Accenture](http://accenture.com), Murray Hill, NJ
  - Substantially expanded intranet portal for the US Housing and Urban Development.
- - Supported ongoing development of an established client-server tax revenue solution for local governments.
+ - Supported ongoing development of an established tax revenue solution for local governments.
 
 ## Arts Leadership
 `2018-present`
