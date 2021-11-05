@@ -109,11 +109,11 @@ Grammy Award, Best Choral Performance
 : "Berlioz Requiem", Atlanta Symphony Orchestra & Chorus
 
 ## Skills
-* Software Developer: HTML/CSS, VB.NET, ASP.NET, MSSQL, Crystal Reports
+* Software Developer: HTML/CSS, VB.NET, ASP.NET, SQL, MSSQL, Crystal Reports
 * Audio/Video Production: Logic Pro X, Final Cut Pro X, Teradek Airmix
 * Teacher: Curriculum Development, Classroom Instruction, Ensemble Rehearsal, Conducting
 * Fluent In: G Suite, MS-Office, Mac OS, SQL Server Management Studio
-* Decent at: Javascript, Slack, Windows Poweruser, ImageMagick
+* Decent at: Javascript, Slack, Windows Poweruser, ImageMagick, Markdown
 * Dabbles In: Linux Cloud Computing, Docker, 3D Printing, PostgreSQL
 * Slightly Too Familiar With: Board Game Acquisition, D&D 5e, Overly Ambitious Camping Trips
 
