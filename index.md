@@ -97,13 +97,15 @@ Virginia Music Educators Blue Ribbon Award
 
 `2019`
 Session Presenter, "Games in the Choir Classroom"
-The Workshops at All-Virginia, VMEA
+ * The Workshops at All-Virginia, VMEA
 
 `2012`
-Runner-up for "Immortal Sails", Festival Singers of Atlanta Choral Composition Competition
+Runner-up for "Immortal Sails"
+* Festival Singers of Atlanta Choral Composition Competition
 
 `2005`
-Grammy Award, Best Choral Performance, "Berlioz Requiem", Atlanta Symphony Orchestra & Chorus
+Grammy Award, Best Choral Performance, "Berlioz Requiem"
+* Atlanta Symphony Orchestra & Chorus
 
 ## Skills
 * Software Developer: HTML/CSS, VB.NET, ASP.NET, SQL, MSSQL, Crystal Reports
