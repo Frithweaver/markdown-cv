@@ -116,3 +116,5 @@ __St. Norbert College,__ De Pere, WI
 * Decent at: Javascript, Windows Poweruser, ImageMagick
 * Dabbles In: Linux Cloud Computing, Docker, 3D Printing, PostgreSQL
 * Slightly Too Familiar With: Board Game Acquisition, D&D 5e, Overly Ambitious Camping Trips
+
+### References on request
