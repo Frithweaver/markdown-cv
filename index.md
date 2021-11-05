@@ -81,7 +81,7 @@ __St. Norbert College,__ De Pere, WI
 
 ## Arts Leadership
 
-### **asdf**
+### **FDSA**
 `2018-present`
 [Mountain Empire Children's Choral Academy](https://www.meccacademy.org/)
  : Board of Directors
