@@ -15,7 +15,7 @@ Former software developer. Veteran music educator choosing a new path. Enthusias
  - **Tech Background**: Twelve years of customizing and building full stack in-house backoffice systems.
  - **Proven Performer**: Able to plan, prepare and execute a successful software launch or a holiday concert.
  - **Knows The Audience**: Quickly comprehends unfamiliar organizational cultures, listens carefully, re-articulates needs, revises often.
- - **Entrepreneur On The Side:** Creating virtual choir videos and/or lightweight business databases.
+ - **Entrepreneur On The Side:** Creating virtual choir videos, simple web site designs, and lightweight business databases.
  - **Choir Director:** Prepares singers to make music together that is greater than the sum of its parts.
 
 ### Experience
@@ -34,7 +34,7 @@ __St. Norbert College,__ De Pere, WI
 	
 ## Work History
 ### __Choir Teacher__
-`2013—present`
+`2013—2021`
 [Glade Spring M.S. & Patrick Henry H.S.](http://wcs.k12.va.us/), Glade Spring, VA
  - Trailblazing advocate of literacy-first choral education. My students read music.
  - Staged full-scale musical theater productions for performers grades 6-12 in collaboration with a dramatic director.
@@ -45,28 +45,29 @@ __St. Norbert College,__ De Pere, WI
 [Margot Venus Productions](https://www.facebook.com/margotvenusvideo) (sole proprietor), Abingdon VA
  - Expanded creative and technical skillset to assemble and edit high-quality [virtual choir videos](https://www.youtube.com/watch?v=gjPVDtYvF1s) for clients during pandemic lockdown.
 
-### **Music Director**
+### **Director of Music**
 `2016—present`
 [Emory United Methodist Church](http://www.emoryunitedmethodistchurch.com/), Emory, VA,
  - Enabled distance worship through pre-recorded and edited virtual programming and then designed and installed a live-streaming solution in spring 2021.
+ - Selected repertoire, prepared chapel choir to lead worship through song.
 
 ### **Choir Teacher**
 `2012—2013`
 [Scott Memorial M.S. & George Wythe H.S.](http://wythe.k12.va.us/), Wytheville, VA
 
-### **Sr. Applications Developer**
+### **Sr. App. Developer**
 `2006—2010`
 [Troutman Pepper Hamilton Sanders LLP](http://troutman.com), Atlanta, GA
  - Architected, developed, and launched custom new business intake workflow software.
  - Wore multiple hats including business analyst ensuring quality requirements were gathered
 
-### **Sr. Applications Analyst**
+### **Sr. App. Analyst**
 `2002—2006`
 [King & Spalding LLP](http://kslaw.com), Atlanta, GA
  - Managed software acquisition lifecycle from RFP to technical implementation.
  - Built or installed systems for financial reporting, data warehousing, and profitability analysis.
 
-### **Freelance Web Developer**
+### **Web Developer**
 `2000—2002` 
  - [Prism RBS Retail](https://www.prismrbs.com), Lincoln NE
  - [HomeHunters.net](http://homehunters.net), Fair Lawn, NJ
