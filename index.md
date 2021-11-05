@@ -113,7 +113,7 @@ __St. Norbert College,__ De Pere, WI
 * Audio/Video Production: Logic Pro X, Final Cut Pro X, Teradek Airmix
 * Teacher: Curriculum Development, Classroom Instruction, Ensemble Rehearsal, Conducting
 * Fluent In: G Suite, MS-Office, Mac OS, SQL Server Management Studio
-* Decent at: Javascript, Windows Poweruser, ImageMagick
+* Decent at: Javascript, Slack, Windows Poweruser, ImageMagick
 * Dabbles In: Linux Cloud Computing, Docker, 3D Printing, PostgreSQL
 * Slightly Too Familiar With: Board Game Acquisition, D&D 5e, Overly Ambitious Camping Trips
 
