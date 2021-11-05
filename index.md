@@ -109,8 +109,10 @@ __St. Norbert College,__ De Pere, WI
 : "Berlioz Requiem", Atlanta Symphony Orchestra & Chorus
 
 ## Skills
-* Audio/Video Production: Logic Pro X, Final Cut Pro X, Teradek Airmix
 * Software Developer: HTML/CSS, VB.NET, ASP.NET, MSSQL, Crystal Reports
-* Fluent In: G Suite, MS-Office, Mac OS, Windows Poweruser
-* Dabbles In: Linux Cloud Computing, Docker, 3D Printing
+* Audio/Video Production: Logic Pro X, Final Cut Pro X, Teradek Airmix
+* Teacher: Curriculum Development, Classroom Instruction, Ensemble Rehearsal, Conducting
+* Fluent In: G Suite, MS-Office, Mac OS, SQL Server Management Studio
+* Decent at: Javascript, Windows Poweruser, ImageMagick
+* Dabbles In: Linux Cloud Computing, Docker, 3D Printing, PostgreSQL
 * Slightly Too Familiar With: Board Game Acquisition, D&D 5e, Overly Ambitious Camping Trips
